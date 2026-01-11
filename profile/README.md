@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="../assets/img/main.png" alt="Main" style="border-radius: 10px;"/>
+  <img src="../assets/img/main.png" alt="Main" style="border-radius: 10px; width: 200px; height: 200px;"/>
 </div>
 
 <br/>
